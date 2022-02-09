@@ -105,5 +105,19 @@ Features: (See Mapty-Flowchart.png)
 
 - We don't need the perfect final architecture figured out before the implementation.
 
+* One of the most important aspects of any Architecture is to decide where and how to store the data.
+
+* Create a diagram with the classes along with the data needed.
+    - Also create a big class that will hold all the functions as methods
+
+* List the down the events that will happen in the program.
+
+Initial Approach:
+
++ User stories 
+    - Log my running workouts with location, distance, time, pace, and steps/minute (cadence)
+
+    - Log my cycling workouts with location, distance, time, speed, and elevation gain
+
 
 
